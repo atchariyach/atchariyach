@@ -10,3 +10,4 @@ Automation, Robotics, and AI Engineering student
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
