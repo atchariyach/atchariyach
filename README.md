@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fifa
 Automation, Robotics, and AI Engineering student  
 - 🚀 Goal: Work in routine engineering operations, system maintenance, and automation support  
-- 💡 Skills: PLC Programming, Python, C++, ESP32, Preventive & Corrective Maintenance  
+- 💡 Skills: PLC Programming, Python, C++, ESP32, Arduino
 
 ## 🚧 Projects
 - 🔹 [Conveyor System Simulation – Factory IO](#)  
