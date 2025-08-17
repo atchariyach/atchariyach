@@ -5,7 +5,9 @@ Automation, Robotics, and AI Engineering student
 
 ## 🚧 Projects
 - 🔹 [Conveyor System Simulation – Factory IO](#)  
-- 🔹 [Mobile Robot with Sensors and IoT](#)  
+- 🔹 [Mobile Robot with Sensors and IoT](#)
+- 🔹 [Python-Inventory-Tracker](#)
+- 🔹 [Automatic Door with Face Recognition](#)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atchariyach&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atchariyach&layout=compact&theme=radical)  
